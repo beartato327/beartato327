@@ -3,9 +3,12 @@
 ## Hi, I'm Rob. 👋 I am an Application Development Analyst specializing in building clean, scalable architectures across multiple platforms and ecosystems.
 
 ### What I am working on:
-- React Wordle
-- React Swing Metric Dashboard
-- Flutter Theraflow *(Therapist management website for SNF and Home Health companies)*
+- React - **Wordle**
+- React - **Swing Metric Dashboard**
+- Angular - **Kitchen Sync** *(Real-time Inventory and Shopping List Tracker)*
+- Angular - **DevPulse** *(Coding Drill Tracker)*
+- Flutter - **Theraflow** *(Therapist management website for SNF and Home Health companies)*
+- Angular/Java/PostgreSQL - **Cut the Bull** *(A no non-sense ad free community driven recipe site)*
 
 ### Tech Stack
 **Frontend**
